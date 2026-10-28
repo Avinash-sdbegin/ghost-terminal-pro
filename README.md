@@ -75,7 +75,7 @@ The generated text is for entertainment and learning. The application does not e
 
 ## 📸 Screenshots
 
-Add your screenshots to the `screenshots/` directory and uncomment or update these paths once the image files have been uploaded.
+### GhostTerminal Pro — Dashboard and Generated AI Output
 
 ### Dashboard
 
@@ -116,4 +116,4 @@ Required challenge tags: `devchallenge`, `hf26challenge`.
 
 ## 📄 License
 
-A license has not yet been specified for this project. Add a `LICENSE` file if you intend to grant others explicit reuse and distribution permissions.
+This project is licensed under the MIT License. See [LICENSE](LICENSE).
